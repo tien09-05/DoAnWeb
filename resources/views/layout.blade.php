@@ -123,7 +123,7 @@
                                 <li><a href="{{URL::to('/trang-chu')}}" class="active">Trag chủ</a></li>
                             </ul>
                             <ul class="nav navbar-nav collapse navbar-collapse ">
-                                <h4><a href="{{URL::to('/trang-chu')}}" class="active">LINK DOWN SOURCODE</a></h4>
+                                <h4><a href="https://github.com/tien09-05/DoAnWeb" class="active">LINK DOWN SOURCODE</a></h4>
                             </ul>
                         </div>
                     </div>
